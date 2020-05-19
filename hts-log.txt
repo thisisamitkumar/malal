@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 19 May 2020 14:52:36 at https://jainuniversity.ac.in/UG/?gclid=CjwKCAjwh472BRAGEiwAvHVfGmg3QZgO0GjAEH5i5iXyG4YJ5NaEvy827zqwNPzkUHiqzweThZQBExoCdfoQAvD_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jainuniversity.ac.in/UG/?gclid=CjwKCAjwh472BRAGEiwAvHVfGmg3QZgO0GjAEH5i5iXyG4YJ5NaEvy827zqwNPzkUHiqzweThZQBExoCdfoQAvD_BwE -O1 "C:\My Web Sites\dsfs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:53:10	Error: 	"Not Found" (404) at link https://www.jainuniversity.ac.in/ecart/views/microsites/UG/images/Corporate-BCom.jpg (from https://www.jainuniversity.ac.in/ecart/views/microsites/UG/css/JU-style2.css)
+14:53:10	Error: 	"Not Found" (404) at link https://www.jainuniversity.ac.in/ecart/views/microsites/UG/images/bg.jpg (from https://www.jainuniversity.ac.in/ecart/views/microsites/UG/css/JU-style2.css)
+14:53:10	Error: 	"Not Found" (404) at link https://www.jainuniversity.ac.in/ecart/views/microsites/UG/images/preloader.gif (from https://www.jainuniversity.ac.in/ecart/views/microsites/UG/css/main2.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 101 links scanned, 97 files written (3169452 bytes overall) [2908107 bytes received at 85532 bytes/sec], 410092 bytes transferred using HTTP compression in 14 files, ratio 20%, 14.4 requests per connection
+(3 errors, 0 warnings, 0 messages)

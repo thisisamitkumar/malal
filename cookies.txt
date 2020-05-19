@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jainuniversity.ac.in	TRUE	/	FALSE	1999999999	PHPSESSID	b5e05aec0d88c1d6f79f801f27c92b08
+.jainuniversity.ac.in	TRUE	/	FALSE	1999999999	__cfduid	dc4e67dab6cbda3c4a80c403ab0a8667b1589880187
+jainuniversity.ac.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+
